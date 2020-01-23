@@ -1,5 +1,3 @@
-require "spec_helper"
-
 class Artist
 
   attr_accessor :name, :songs
